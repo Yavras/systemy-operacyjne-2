@@ -1,6 +1,6 @@
 # systemy-operacyjne-2
 
-### My proposed solutions to the task of the course "Systemy Operacyjne 2", which was organized on the University of Science and Technology by Paweł Lampe.
+### My proposed solutions to the tasks of the course "Systemy Operacyjne 2", which was organized on the University of Science and Technology by Paweł Lampe.
 
 ## Links
 ### [Tasks prepared by Paweł Lampe](https://github.com/Scony/systemy-operacyjne-2)
