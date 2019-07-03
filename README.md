@@ -8,7 +8,7 @@
 
 ## Task list:
 * [x] Lab 2 (Bash basics)
-* [ ] Lab 3 (Symbolic links)
+* [x] Lab 3 (Symbolic links)
 * [ ] Lab 4 (Find and Pipes)
 * [ ] Lab 5 (Grep and Awk)
 * [ ] Lab 6 (Introduction to Python)
