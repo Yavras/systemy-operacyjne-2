@@ -7,7 +7,7 @@
 
 
 ## Task list:
-* [ ] Lab 2 (Bash basics)
+* [x] Lab 2 (Bash basics)
 * [ ] Lab 3 (Symbolic links)
 * [ ] Lab 4 (Find and Pipes)
 * [ ] Lab 5 (Grep and Awk)
