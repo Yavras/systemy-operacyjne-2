@@ -9,7 +9,7 @@
 ## Task list:
 * [x] Lab 2 (Bash basics)
 * [x] Lab 3 (Symbolic links)
-* [ ] Lab 4 (Find and Pipes)
+* [x] Lab 4 (Find and Pipes)
 * [ ] Lab 5 (Grep and Awk)
 * [ ] Lab 6 (Introduction to Python)
 * [ ] Lab 7 (Python regex)
